@@ -1,0 +1,29 @@
+.card {
+  margin-bottom: 20px;
+}
+
+.card-header {
+  background-color: #6f6f6f98 !important;
+  color: white !important;
+  text-align: center !important;
+}
+
+.card-body {
+  background: rgb(170, 171, 171);
+  background: linear-gradient(
+    175deg,
+    rgba(170, 171, 171, 0.8578781854538691) 19%,
+    rgba(246, 246, 246, 0.5637605383950455) 94%
+  );
+  color: rgb(93, 93, 93) !important;
+}
+
+.done-btn {
+  background-color: #6f6f6f !important;
+  border: 1px solid #6f6f6f !important;
+}
+
+.done-btn:hover {
+  background-color: white !important;
+  color: #6f6f6f !important;
+}
